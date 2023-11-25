@@ -1,6 +1,11 @@
 ## Screen Shots
 
-[photo](https://github.com/anishredddy/e-commerce/blob/main/Screenshot%20(5).png)
+![Image not found](https://github.com/anishredddy/e-commerce/blob/main/Screenshot%20(4).png)
+
+![Image not found](https://github.com/anishredddy/e-commerce/blob/main/Screenshot%20(5).png)
+
+![Image not found](https://github.com/anishredddy/e-commerce/blob/main/Screenshot%20(6).png)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
